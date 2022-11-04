@@ -37,7 +37,7 @@ public class Cliente {
     public void  setAltura(double altura) {
         if (altura > 0 && altura < 2.51) {
             this.altura = altura;
-        } else{
+        } else {
             System.out.println("Altura inválida. Atributo não modificado");
         }
     }

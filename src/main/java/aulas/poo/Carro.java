@@ -71,6 +71,4 @@ public class Carro {
         boolean viajou = carro1.viajar("Fortaleza", 300);
         System.out.println(viajou);
     }
-
-
 }
